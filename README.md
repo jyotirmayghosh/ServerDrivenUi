@@ -1,2 +1,2 @@
-# ServerDrivenUi
-Build Ui from json response
+# Server driven ui
+Build UI from json response
